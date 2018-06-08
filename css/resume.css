@@ -33,7 +33,7 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 500;
   font-family: 'Andale Mono', monospace;
   font-size: 1.35rem;
