@@ -19,7 +19,7 @@ h5,
 h6 {
   font-family: 'Andale Mono', monospace;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: #343a40;
 }
 
@@ -33,7 +33,7 @@ h2 {
 }
 
 .subheading {
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-weight: 500;
   font-family: 'Andale Mono', monospace;
   font-size: 1.35rem;
